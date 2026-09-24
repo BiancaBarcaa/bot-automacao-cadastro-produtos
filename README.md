@@ -35,7 +35,7 @@ Implementar tratamento de erros durante a execução da automação.
 Criar uma interface gráfica para facilitar a configuração do bot.
 Permitir integração com diferentes fontes de dados, como bancos de dados e APIs.
 Gerar relatórios automáticos com o status dos cadastros realizados.
-👨‍💻 Autor
 
+👨‍💻 Autor
 Bianca Barca
 Estudante de Análise e Desenvolvimento de Sistemas, com interesse em Análise de Dados e automação de processos. Estou sempre em busca de novos desafios para desenvolver soluções eficientes por meio da tecnologia.
